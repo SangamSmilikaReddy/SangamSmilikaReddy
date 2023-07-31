@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Deep learning**
 
-- 🌱 I’m currently learning **Machin learning**
+- 🌱 I’m currently learning **Machine learning**
 
 - 📫 How to reach me **ss8888@srmist.edu.in**
 
