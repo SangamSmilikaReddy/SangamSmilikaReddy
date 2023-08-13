@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sangam Smilika Reddy</h1>
 <h3 align="center">A passionate Software Engineer From india</h3>
 <img align="right" border-radius="50%" alt="coding" width="500" src="https://www.bing.com/th/id/OGC.0f300004c555663076c530d9a2abf11c?pid=1.7&rurl=https%3a%2f%2fcdnb.artstation.com%2fp%2fassets%2fimages%2fimages%2f007%2f854%2f263%2foriginal%2frothana-chhourm-ezgif-com-resize-4.gif%3f1508943159&ehk=fFLlbz6QalD4%2bOk%2frMd6BRimqSlNBWfWRzF5E71vOfs%3d">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sangamsmilikareddy&label=Profile%20views&color=0e75b6&style=flat" alt="sangamsmilikareddy" /> </p>
+<p align="left"> <img src="https://www.bing.com/images/searchview=detailV2&ccid=1LCTbzAJ&id=1E6328406E40F19390F4428F4C911239F71A4ED5&thid=OIP.1LCTbzAJV_npa23LQAQcKAHaEK&mediaurl=https%3a%2f%2fi1.wp.com%2fwww.cartoonbucket.com%2fwpcontent%2fuploads%2f2015%2f07%2fAnime-Typing-In-Computer.gif%3fw%3d1200%26is-pending-load%3d1&exph=197&expw=350&q=women+coding+gif&simid=607989880151561753&FORM=IRPRST&ck=3F3990869A5FC3166034D9A3E6DB5369&selectedIndex=31" alt="sangamsmilikareddy" /> </p>
 
 - 🔭 I’m currently working on **Deep learning**
 
